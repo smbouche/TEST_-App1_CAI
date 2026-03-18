@@ -12,6 +12,8 @@ namespace TEST__App1_CAI
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
+            //Esto es un comentario
         }
     }
 }
